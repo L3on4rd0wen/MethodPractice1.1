@@ -23,3 +23,8 @@ void Over()
     result = num1 / num2;
     Console.WriteLine($"{num1} / {num2} = {result}");
 }
+
+Add();
+Sub();
+Mult();
+Over();
