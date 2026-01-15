@@ -1,0 +1,15 @@
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\bin\Debug\net8.0\MethodPractice1.exe
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\bin\Debug\net8.0\MethodPractice1.deps.json
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\bin\Debug\net8.0\MethodPractice1.runtimeconfig.json
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\bin\Debug\net8.0\MethodPractice1.dll
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\bin\Debug\net8.0\MethodPractice1.pdb
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.AssemblyInfoInputs.cache
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.AssemblyInfo.cs
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.csproj.CoreCompileInputs.cache
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.sourcelink.json
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.dll
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\refint\MethodPractice1.dll
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.pdb
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\MethodPractice1.genruntimeconfig.cache
+D:\Dev Projects\Visual Studio Code\Personal\School Projects\Bu Bias\C#\MethodPractice1\MethodPractice1\obj\Debug\net8.0\ref\MethodPractice1.dll
